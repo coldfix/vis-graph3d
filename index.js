@@ -13,6 +13,7 @@ exports.Queue = Queue;
 exports.Graph3d = require('./lib/graph3d/Graph3d');
 exports.graph3d = {
   Camera: require('./lib/graph3d/Camera'),
+  Color: require('./lib/graph3d/Color'),
   Filter: require('./lib/graph3d/Filter'),
   Point2d: require('./lib/graph3d/Point2d'),
   Point3d: require('./lib/graph3d/Point3d'),
